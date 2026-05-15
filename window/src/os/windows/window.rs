@@ -2269,7 +2269,7 @@ impl KeyboardLayoutInfo {
             Modifiers::SHIFT,
             Modifiers::SHIFT | Modifiers::CTRL,
             Modifiers::ALT,
-            Modifiers::RIGHT_ALT, // AltGr
+            Modifiers::RIGHT_ALT,                    // AltGr
             Modifiers::SHIFT | Modifiers::RIGHT_ALT, // Shift-AltGr
         ];
 
